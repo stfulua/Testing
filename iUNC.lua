@@ -5,7 +5,7 @@
 
     It's still being maintained, don't worry.
     Get the newest version here:
-    https://github.com/stfulua/Testing/
+    https://raw.githubusercontent.com/stfulua/Testing/main/iUNC.lua
 
     MIT License, please read.
 --]]
